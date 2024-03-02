@@ -64,7 +64,7 @@ In Python, data structures are like containers that help you organize and manage
      heapq.heappop(heap)  # Removes and returns the smallest item
      ```
 
-*** To run the Python script provided in the README, follow these steps:
+** To run the Python script provided in the README, follow these steps:**
 
 1. Open your terminal or command prompt.
 
