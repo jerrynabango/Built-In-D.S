@@ -63,3 +63,21 @@ In Python, data structures are like containers that help you organize and manage
      heapq.heapify(heap)  # Turns list into a heap
      heapq.heappop(heap)  # Removes and returns the smallest item
      ```
+
+** To run the Python script provided in the README, follow these steps:
+
+1. Open your terminal or command prompt.
+
+2. Navigate to the directory where your Python script is located using the `cd` command. For example, if your script is in a directory called `scripts` on your desktop, you would use:
+   ```
+   cd Desktop/scripts
+   ```
+
+3. Once you are in the correct directory, you can run the Python script using the `python` command followed by the name of your script file. If your script is named `my_script.py`, you would run:
+   ```
+   python my_script.py
+   ```
+
+4. Press Enter to execute the command, and the script will run. You should see the output printed to the terminal.
+
+That's it! You have successfully run your Python script from the command line.
