@@ -1,4 +1,3 @@
-# Create an empty list called my_list
 my_list = []
 
 # Add some numbers to my_list using extend()
