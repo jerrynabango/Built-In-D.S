@@ -68,14 +68,14 @@ In Python, data structures are like containers that help you organize and manage
 
 1. Open your terminal or command prompt.
 
-2. Navigate to the directory where your Python script is located using the `cd` command. For example, if your script is in a directory called `scripts` on your desktop, you would use:
+2. Navigate to the directory where your Python script is located using the `cd` command. For example, if your script is in a directory called `Built-In-D.S` on your desktop, you would use:
    ```
-   cd Desktop/scripts
+   cd Desktop/Built-In-D.S
    ```
 
-3. Once you are in the correct directory, you can run the Python script using the `python` command followed by the name of your script file. If your script is named `my_script.py`, you would run:
+3. Once you are in the correct directory, you can run the Python script using the `python` command followed by the name of your script file. If your script is named `data_structure.py`, you would run:
    ```
-   python my_script.py
+   python data_structure.py
    ```
 
 4. Press Enter to execute the command, and the script will run. You should see the output printed to the terminal.
